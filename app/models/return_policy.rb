@@ -1,0 +1,2 @@
+class ReturnPolicy < ApplicationRecord
+end
